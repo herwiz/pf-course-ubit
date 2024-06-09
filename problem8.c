@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Create a program that uses a do-while loop to print name "Mahwiz" multiple times. The program should prompt the user to enter 'y' to print again or 'n' to stop.
+// Q. Create a program that uses a do-while loop to print name "Mahwiz" multiple times. The program should prompt the user to enter 'y' to print again or 'n' to stop.
 
 int main() {
     char choice;
