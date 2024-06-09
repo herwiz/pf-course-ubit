@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program that asks the user to enter a single character and then prints out both the character and its corresponding ASCII code.
+// Q. Write a program that asks the user to enter a single character and then prints out both the character and its corresponding ASCII code.
 
 int main() {
     char character;  // Use a descriptive variable name 
