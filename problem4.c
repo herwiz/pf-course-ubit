@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program that takes a 5-digit integer as input (e.g., 12345) and outputs the number with its digits reversed (e.g., 54321). Do not use any loops.
+// Q. Write a program that takes a 5-digit integer as input (e.g., 12345) and outputs the number with its digits reversed (e.g., 54321). Do not use any loops.
 
 int main() {
     int num = 12345;
