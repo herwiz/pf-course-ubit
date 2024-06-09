@@ -113,13 +113,13 @@ int main() {
 // Enter quantity: 1
 // Do you want to add more items? (1 for Yes, 0 for No): 0
 
-// Enter your name: John Doe
-// Enter your address: 123 Elm Street
+// Enter your name: Mahwiz Khalil
+// Enter your address: Block H North Nazimabad, Karachi
 
 // Invoice:
 // Date: 2024-06-09 12:34:56
-// Name: John Doe
-// Address: 123 Elm Street
+// Name: Mahwiz Khalil
+// Address: Block H North Nazimabad, Karachi
 // Order Details:
 // Item: Pizza, Quantity: 2, Cost: Rs. 400
 // Item: Sandwich, Quantity: 1, Cost: Rs. 100
