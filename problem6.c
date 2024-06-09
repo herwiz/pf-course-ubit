@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program that takes two characters as input from the user and adds their corresponding ASCII values. Print the sum of the ASCII values.
+// Q. Write a program that takes two characters as input from the user and adds their corresponding ASCII values. Print the sum of the ASCII values.
 
 int main() {
     char char1, char2;
