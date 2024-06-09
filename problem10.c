@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program that takes a positive integer as input representing the number of rows and then prints a pyramid pattern of stars with the given number of rows.
+// Q. Write a program that takes a positive integer as input representing the number of rows and then prints a pyramid pattern of stars with the given number of rows.
 
 int main() {
     int rows;
