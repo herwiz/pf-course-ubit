@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// print your name 5 times in while loop
+// Q. print your name 5 times in while loop
 
 int main() {
     int count = 1;
