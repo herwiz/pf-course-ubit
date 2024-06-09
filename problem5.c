@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to calculate the factorial of a non-negative integer entered by the user.
+// Q. Write a program to calculate the factorial of a non-negative integer entered by the user.
 
 int main() {
     int num, i;
