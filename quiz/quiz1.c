@@ -48,7 +48,7 @@ int main() {
 }
 
 
-// Input E.g
+// Output
 
 // Enter the number of rows: 2
 // Enter the number of columns: 3
