@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// write program for table using for while loop
+// Q. write program for table using for while loop
 
 int main() {
     int table_num;
